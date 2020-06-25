@@ -1,0 +1,10 @@
+{
+  "name": "git-session2_delete",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Singh,Atin <atin@pragra.co>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
