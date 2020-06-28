@@ -1,6 +1,4 @@
 
-//Adeel
-
 var express = require('express');
 /*
  Everyone please create a branch using 
